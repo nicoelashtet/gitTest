@@ -27,3 +27,6 @@ while running:
     pygame.draw.rect(screen,(217,234,211),(rect_x,rect_y,30,30))
     pygame.display.update()
 pygame.quit()
+
+print("hello git hub")
+print("This is Version 2")
